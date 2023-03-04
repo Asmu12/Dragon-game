@@ -1,3 +1,3 @@
 # Dragon-Game
- https://asmu12.github.io/Dragon-game/
+ https://asmu12.github.io/Dragon-game/  Click here to play the game...
 <img src="view.png">
